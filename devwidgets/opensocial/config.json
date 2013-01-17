@@ -1,0 +1,27 @@
+{
+    "id":                 "opensocial",
+    "name":               "opensocial",
+    "description":        "Open Social",
+    "type":               "contrib",
+    "enabled":            true,
+    "hasSettings":        true,
+    "url":                "/devwidgets/opensocial/opensocial.html",
+    "img":                "/devwidgets/opensocial/images/twitter.png",
+    "i18n": {
+        "default": {
+            "bundle":        "/devwidgets/opensocial/bundles/default.properties",
+            "name":           "opensocial",
+            "description":    "opensocial"
+        },
+        "nl_NL": {
+            "bundle":        "/devwidgets/opensocial/bundles/nl_NL.properties"
+        }
+    },
+    "personalportal":     true,
+    "sakaidocs":          true,
+    "showinsakaigoodies": true,
+    "groupdashboard":     false,
+    "grouppages":         false,
+    "userdashboard":      false,
+    "userpages":          false
+}
